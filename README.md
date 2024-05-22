@@ -4,17 +4,23 @@
 
 Fonte da imagem: Veja
 
-## ❌**Problema**
+## ❌ **Problema**
 O transtorno depressivo é um problema significativo de saúde pública, afetando um grande número de pessoas globalmente. Sua origem é multifatorial, envolvendo uma complexa interação entre fatores individuais, socioeconômicos e ambientais. Compreender esses fatores e como eles se relacionam com os sintomas depressivos é essencial para o desenvolvimento de estratégias eficazes de prevenção e tratamento.
 
-## 🎯**Objetivos**
+## 🎯 **Objetivos**
 
 Analisar o perfil dos adultos com sintomas depressivos nos EUA durante 2005-2006:
 * Identificar como fatores demográficos (gênero, etnia, idade, grau de escolaridade e renda) estão associados aos sintomas depressivos.
 * Investigar a associação entre hábitos saudáveis (alimentação e atividade física) e índices de depressão:
 * Determinar a relação entre a prática de atividade física e a qualidade da nutrição com os níveis de sintomas depressivos.
 
-## 📈**Insights do Projeto:**
+## **Metodologia**
+
+**EDA (Exploratory Data Analysis):** durante o desenvolvimento do projeto, foi realizada análises univariadas e bivariadas para se obter insights (padrões, tendências e correlações).
+
+**Testes de Hipótese:** foi realizada uma série de testes de hipóteses para identificar a associação entre as variáveis e das variáveis com a variável target.
+
+## 📈 **Insights do Projeto:**
 
 **1) Perfil de Indivíduos com Sintomas Depressivos nos EUA (2005-2006):**
 
@@ -34,7 +40,7 @@ Analisar o perfil dos adultos com sintomas depressivos nos EUA durante 2005-2006
 
 * Nutrição e Depressão: Há indícios de que a qualidade da nutrição está associada aos sintomas depressivos.
 
-## ✅**Recomendações para Pesquisas Futuras**
+## ✅ **Recomendações para Pesquisas Futuras**
 
 * Modelos de Machine Learning: Implementar técnicas de machine learning para prever os níveis de sintomas depressivos (DPQ_SCORE) com base nas variáveis analisadas, oferecendo uma abordagem preditiva e mais precisa.
 
@@ -42,6 +48,6 @@ Analisar o perfil dos adultos com sintomas depressivos nos EUA durante 2005-2006
 
 * Variáveis Adicionais: Incluir mais informações sobre os indivíduos, como estado civil e histórico médico familiar, para enriquecer a análise e captar uma gama mais ampla de influências potenciais nos sintomas depressivos.
 
-## 📝**Conclusão**💡
+## 📝 **Conclusão**💡
 
 Este projeto proporciona insights valiosos sobre a interação entre diversos fatores socioeconômicos e comportamentais na manifestação da depressão. Os resultados sugerem que gênero, idade, renda, grau de escolaridade, atividade física e qualidade da nutrição são todos fatores relevantes que influenciam os sintomas depressivos. No entanto, há uma necessidade contínua de pesquisas interdisciplinares e abordagens inovadoras, como modelos de machine learning, para melhorar a capacidade de prever, diagnosticar e tratar a depressão de forma eficaz.
