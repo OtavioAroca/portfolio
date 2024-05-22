@@ -1,4 +1,4 @@
-# Depressão e Fatores Associativos
+# Depressão: Influências e Correlações
 
 ![Depressão](<Imagens/Depressão.webp>)
 
