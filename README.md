@@ -14,7 +14,7 @@ Analisar o perfil dos adultos com sintomas depressivos nos EUA durante 2005-2006
 * Investigar a associação entre hábitos saudáveis (alimentação e atividade física) e índices de depressão:
 * Determinar a relação entre a prática de atividade física e a qualidade da nutrição com os níveis de sintomas depressivos.
 
-## **Metodologia**
+## 🕵🏼‍♂️ **Metodologia**
 
 **EDA (Exploratory Data Analysis):** durante o desenvolvimento do projeto, foi realizada análises univariadas e bivariadas para se obter insights (padrões, tendências e correlações).
 
