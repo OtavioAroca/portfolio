@@ -1,6 +1,6 @@
 # Depressão e Fatores Associativos
 
-[Depressão.webp]
+![Depressão](<Imagens/Depressão.webp>)
 
 Fonte da imagem: Veja
 
